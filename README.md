@@ -13,7 +13,7 @@
 
 - :zap: Хочу повысить навыки программирования и найти работу. 
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/AlekDn)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://t.me/AlekDn)
 
 ---
 
