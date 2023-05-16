@@ -74,9 +74,9 @@
 
 ---
 
-### 💻 Codewars:
+### 💻 Резюме:
+<img src="[https://sun9-45.userapi.com/impf/odP5p-axat1wxQc7-dCEW4aSUbkTupa9F05NAA/9HSnGMMJVUE.jpg](https://disk.yandex.ru/i/BIr9Spm-RvUDAw)?size=960x384&quality=96&crop=0,0,1920,768&sign=859f0f650e35e6a8effa14dc05f77bc5&c_uniq_tag=X-uciM5GEdxCWuJcWmPDj9rn_H8gnAhahMgF1qSZ91Y&type=helpers">
 
-[codewars]
 
 
 
