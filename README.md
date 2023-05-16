@@ -75,7 +75,7 @@
 ---
 
 ### 💻 Резюме:
-<img src="https://disk.yandex.ru/i/BIr9Spm-RvUDAw">
+<img src="https://4.downloader.disk.yandex.ru/preview/99a1289a3ff2bd4c14e842e6d527e5ad317345e227bfbd234ee4a7d8fb39599e/inf/k-nyShsUgu3jzVnAdkEy28Otz066TeNrJ_4b7pmie3UaQ2CDudmHsPgdV_2BD7DBiex9KyiGGP5ZTQZ4-YbZ_Q%3D%3D?uid=325628383&filename=Резюме.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=325628383&tknv=v2&size=1920x956">
 
 
 
