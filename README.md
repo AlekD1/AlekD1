@@ -75,8 +75,8 @@
 ---
 
 ### 💻 Резюме:
-<img src="https://github.com/AlekD1/AlekD1/assets/125153008/471ea7e3-8bc2-4f31-b932-c2e776f0f831">
-
+<img width="1024" height="1449" alt="f15d195a-a029-43aa-9404-577b016609ba" src="https://github.com/user-attachments/assets/536b52da-3110-499f-a892-159d77ea012b" />
+<img width="1024" height="1449" alt="f5ca90e5-12a0-40ed-9a80-89e9934765a6" src="https://github.com/user-attachments/assets/5407b025-948b-4dde-9f20-0c66125d8a92" />
 
 
 
