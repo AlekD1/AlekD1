@@ -71,6 +71,8 @@
 | stepik.org/Разработка мобильных приложений для Android          | 09/2022 - 10/2022 |
 | sprint.1t.ru/Web-разработчик                                    | 10/2022 - 03/2023 |
 
+### Портфолио:
+https://alekd1.github.io/Portfolio/
 
 ---
 
